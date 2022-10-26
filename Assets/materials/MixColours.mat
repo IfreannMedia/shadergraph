@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Test Material
-  m_Shader: {fileID: -6465566751694194690, guid: 3e105186d57a121429ce4e9a29db6c1d, type: 3}
+  m_Name: MixColours
+  m_Shader: {fileID: -6465566751694194690, guid: 1483b45561e5f364eaaa9fb58c761dcc, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
