@@ -965,7 +965,7 @@
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
     "m_ObjectId": "9c79cf2bb1a441158b5cab9f5a7c5dd4",
-    "m_Title": "Lambart Diffuse Formula",
+    "m_Title": "Lambert Diffuse Formula",
     "m_Content": "I = L . N  X Colour X Attenuation\n\nLight DOT normal x colour x attenuation(strength of light source)\n",
     "m_TextSize": 0,
     "m_Theme": 0,
