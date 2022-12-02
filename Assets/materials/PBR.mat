@@ -86,6 +86,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _Ambient_Occlusion_Amount: 0.235
     - _BUILTIN_QueueControl: 0
     - _BUILTIN_QueueOffset: 0
     - _BumpScale: 1
@@ -101,7 +102,7 @@ Material:
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _SmoothnessTextureChannel: 0
-    - _Smoothness_Amount: 0.61
+    - _Smoothness_Amount: 1
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVSec: 0
