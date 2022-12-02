@@ -97,7 +97,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 0}
+  m_LightingDataAsset: {fileID: 112000000, guid: 275ce97b4a2a77a429c13a1b7f3d1289, type: 2}
   m_LightingSettings: {fileID: 0}
 --- !u!196 &4
 NavMeshSettings:
@@ -133,6 +133,10 @@ PrefabInstance:
     - target: {fileID: 951040179264058421, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
       propertyPath: m_Name
       value: Zombunny (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 951040179264058421, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 65
       objectReference: {fileID: 0}
     - target: {fileID: 1650030241814247772, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
       propertyPath: m_RootOrder
@@ -195,6 +199,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Zombunny (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 951040179264058421, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 65
+      objectReference: {fileID: 0}
     - target: {fileID: 1650030241814247772, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
       propertyPath: m_RootOrder
       value: 8
@@ -255,6 +263,10 @@ PrefabInstance:
     - target: {fileID: 951040179264058421, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
       propertyPath: m_Name
       value: Zombunny (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 951040179264058421, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 65
       objectReference: {fileID: 0}
     - target: {fileID: 1650030241814247772, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
       propertyPath: m_RootOrder
@@ -317,6 +329,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Zombunny (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 951040179264058421, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 65
+      objectReference: {fileID: 0}
     - target: {fileID: 1650030241814247772, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
       propertyPath: m_RootOrder
       value: 11
@@ -377,6 +393,10 @@ PrefabInstance:
     - target: {fileID: 951040179264058421, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
       propertyPath: m_Name
       value: Zombunny (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 951040179264058421, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 65
       objectReference: {fileID: 0}
     - target: {fileID: 1650030241814247772, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
       propertyPath: m_RootOrder
@@ -703,6 +723,71 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1382210732
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 951040179264058421, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
+      propertyPath: m_Name
+      value: Zombunny (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 951040179264058421, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1650030241814247772, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 1650030241814247772, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 1650030241814247772, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1650030241814247772, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1650030241814247772, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.00000058114523
+      objectReference: {fileID: 0}
+    - target: {fileID: 1650030241814247772, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1650030241814247772, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1650030241814247772, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1650030241814247772, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1650030241814247772, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1650030241814247772, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7410810513189813057, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8350789020fc1ce45bb98e5441af8c82, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
 --- !u!1001 &1536130853
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -872,6 +957,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Zombunny (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 951040179264058421, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 65
+      objectReference: {fileID: 0}
     - target: {fileID: 1650030241814247772, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -933,6 +1022,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Zombunny (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 951040179264058421, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 65
+      objectReference: {fileID: 0}
     - target: {fileID: 1650030241814247772, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
       propertyPath: m_RootOrder
       value: 10
@@ -983,6 +1076,71 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: f72c14b5e70bf4348840ae0fa3424578, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
+--- !u!1 &1739389455
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1739389457}
+  - component: {fileID: 1739389456}
+  m_Layer: 0
+  m_Name: Reflection Probe
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!215 &1739389456
+ReflectionProbe:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1739389455}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Type: 0
+  m_Mode: 0
+  m_RefreshMode: 0
+  m_TimeSlicingMode: 0
+  m_Resolution: 128
+  m_UpdateFrequency: 0
+  m_BoxSize: {x: 16.77, y: 10, z: 10}
+  m_BoxOffset: {x: 0, y: 0, z: 0}
+  m_NearClip: 0.3
+  m_FarClip: 1000
+  m_ShadowDistance: 100
+  m_ClearFlags: 1
+  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IntensityMultiplier: 1
+  m_BlendDistance: 1
+  m_HDR: 1
+  m_BoxProjection: 0
+  m_RenderDynamicObjects: 0
+  m_UseOcclusionCulling: 1
+  m_Importance: 1
+  m_CustomBakedTexture: {fileID: 0}
+--- !u!4 &1739389457
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1739389455}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.971, y: 2.155, z: -0.02}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 14
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &137438552257119500
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -993,6 +1151,10 @@ PrefabInstance:
     - target: {fileID: 951040179264058421, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
       propertyPath: m_Name
       value: Zombunny
+      objectReference: {fileID: 0}
+    - target: {fileID: 951040179264058421, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 65
       objectReference: {fileID: 0}
     - target: {fileID: 1650030241814247772, guid: 1009977f40d6915469672a35b104c7c8, type: 3}
       propertyPath: m_RootOrder
