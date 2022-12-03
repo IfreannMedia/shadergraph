@@ -84,18 +84,18 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _GrassLevel: 0.6
+    - _GrassLevel: 0.2
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _RockLevel: 3.54
+    - _RockLevel: 2.58
     - _SmoothnessTextureChannel: 0
     - _SnowLevel: 5.22
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVSec: 0
-    - _WaterLevel: 3.54
+    - _WaterLevel: 3.94
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
